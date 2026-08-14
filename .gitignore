@@ -1,0 +1,256 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# macOS folders
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+
+# Linux
+.directory
+.Trash-*
+.nfs*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IntelliJ shared workspace files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/shelf/
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Zed
+.zed/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+.nb-gradle/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Maven wrapper JAR
+# Keep mvnw and mvnw.cmd tracked
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle (in case used later)
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Spring Boot generated files
+spring-shell.log
+
+# Logs
+*.log
+logs/
+log/
+
+# Generated reports
+reports/
+
+*.class
+*.jar
+*.war
+*.ear
+
+# Java crash logs
+hs_err_pid*
+replay_pid*
+
+# JVM recordings
+*.hprof
+
+# Dependencies
+node_modules/
+
+# Vite build output
+dist/
+dist-ssr/
+
+# Vite cache
+.vite/
+
+# TypeScript
+*.tsbuildinfo
+
+# npm
+npm-debug.log*
+npm-error.log*
+
+# pnpm
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Yarn
+yarn-debug.log*
+yarn-error.log*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+.pnp.*
+.yarnrc.yml
+
+# Bun
+bun.lockb
+
+# Other package manager caches
+.npm/
+.pnpm-store/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Spring Boot local configuration
+application-local.properties
+application-local.yml
+application-local.yaml
+
+# Local secrets
+secrets/
+.secret/
+credentials/
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+
+# Never commit API keys
+openai-key.txt
+openai.key
+api-key.txt
+
+# Local AI configuration
+ai-local/
+llm-local/
+
+# Java
+coverage/
+jacoco/
+jacoco.exec
+
+# JavaScript / TypeScript
+coverage/
+.nyc_output/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+
+# Temporary folders
+tmp/
+temp/
+
+generated/
+generated-sources/
+generated-resources/
+
+# Uploads / scraped content
+uploads/
+downloads/
+scraped/
+scraped-data/
+
+# Large extracted HTML / Markdown files
+*.html.tmp
+*.md.tmp
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# H2
+*.mv.db
+*.trace.db
+
+# Local MySQL/MariaDB data
+mysql-data/
+mariadb-data/
+
+# Docker volumes
+.docker/
+
+# Docker override files
+docker-compose.override.yml
+
+# Local Docker environment
+.env.docker
+
+.vercel/
+.netlify/
+.turbo/
+
+# Next.js (if ever used)
+.next/
+
+# React Native / Expo (harmless if unused)
+.expo/
+.expo-shared/
+
+# OS / editor backup
+*.orig
+*.rej
+
+# Local history
+.history/
+
+# Local development files
+.local/
