@@ -115,6 +115,8 @@ See `url2product-ai` in action:
 
 <video src="./assets/url2product-ai-repo-demo.mp4" controls width="100%"></video>
 
+https://github.com/user-attachments/assets/f8905e44-2505-4b7a-b11b-7849d32ec764
+
 ---
 
 Built with 🤍 by **Dineth Dilhara**
