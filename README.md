@@ -91,7 +91,7 @@ The extraction pipeline follows a sequential processing flow:
 Want to integrate `url2product-ai` into your Spring Boot application?
 
 **Read the integration guide:**  
-https://bootarc.vercel.app/blog/Integrateurl2Product
+https://bootarc.vercel.app/blog/integrate-url2product-ai
 
 ### Non-AI Alternative
 
